@@ -14,6 +14,9 @@ doc
 # jeweler generated
 pkg
 
+# we don't want to lock down a ruby version just yet, but handy to have one for personal use
+.rvmrc
+
 # Have editor/IDE/OS specific files you need to ignore? Consider using a global gitignore: 
 #
 # * Create a file at ~/.gitignore
